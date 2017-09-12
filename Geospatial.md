@@ -40,3 +40,4 @@ folium.Marker(location = SF_COORDINATES1, icon=folium.Icon(color='red',icon='POI
 folium.Marker(location = SF_COORDINATES2, icon=folium.Icon(color='red',icon='POI')).add_to(m)
 display(m)
 ```
+![alt text](https://raw.githubusercontent.com/vic614/geospatial/master/ezgif.com-optimize.gif "Demo")
